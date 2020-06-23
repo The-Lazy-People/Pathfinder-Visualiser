@@ -1,11 +1,9 @@
 # Pathfinding-visualiser :eye_speech_bubble:
 :smile: Welcome to Pathfinding-visualiser android app to visualize path-finding algorithms!! </br>
 
-----
-
 ## Sneak Peak towards our creation:
 
-<kbd> ![Markov Visualizer](img/video.mp4)  </kbd>
+<kbd> ![Markov Visualizer](img/video.gif) </kbd>
 
 ----
 
